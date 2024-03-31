@@ -3,11 +3,11 @@
   <title>屈志刚’s blogs</title>
   
   <subtitle>克己慎独 守心明性</subtitle>
-  <link href="https://github.com/LonelyEV/lonelyev.github.io/atom.xml" rel="self"/>
+  <link href="https://www.quzhigang.com/atom.xml" rel="self"/>
   
-  <link href="https://github.com/LonelyEV/lonelyev.github.io/"/>
+  <link href="https://www.quzhigang.com/"/>
   <updated>2024-03-31T05:35:23.355Z</updated>
-  <id>https://github.com/LonelyEV/lonelyev.github.io/</id>
+  <id>https://www.quzhigang.com/</id>
   
   <author>
     <name>屈志刚</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/LonelyEV/lonelyev.github.io/2024/03/31/hello-world/"/>
-    <id>https://github.com/LonelyEV/lonelyev.github.io/2024/03/31/hello-world/</id>
+    <link href="https://www.quzhigang.com/2024/03/31/hello-world/"/>
+    <id>https://www.quzhigang.com/2024/03/31/hello-world/</id>
     <published>2024-03-31T05:35:23.355Z</published>
     <updated>2024-03-31T05:35:23.355Z</updated>
     
