@@ -6,7 +6,7 @@
   <link href="https://www.quzhigang.com/atom.xml" rel="self"/>
   
   <link href="https://www.quzhigang.com/"/>
-  <updated>2024-03-31T12:22:00.218Z</updated>
+  <updated>2024-03-31T12:24:06.676Z</updated>
   <id>https://www.quzhigang.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="https://www.quzhigang.com/2024/03/31/Java8%E6%A6%82%E8%BF%B0/"/>
     <id>https://www.quzhigang.com/2024/03/31/Java8%E6%A6%82%E8%BF%B0/</id>
     <published>2024-03-31T12:15:23.000Z</published>
-    <updated>2024-03-31T12:22:00.218Z</updated>
+    <updated>2024-03-31T12:24:06.676Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="JAVA8概述"><a href="#JAVA8概述" class="headerlink" title="JAVA8概述"></a>JAVA8概述</h1><hr><p><code>    Java 8是Java编程语言的一个重大版本，于**2014年3月**发布。它引入了许多新功能和改进，为Java开发人员带来了更强大和更高效的编程工具。</code></p><h2 id="主要特性和概述："><a href="#主要特性和概述：" class="headerlink" title="主要特性和概述："></a>主要特性和概述：</h2><blockquote><p>1<strong>Lambda表达式</strong>：Lambda表达式是Java 8最引人注目的特性之一。它允许开发人员将函数作为参数传递给方法，简化了代码，提高了代码的可读性和可维护性。</p></blockquote><blockquote><p><strong>流式API（Stream API）</strong>：流式API提供了一种新的处理集合数据的方式。它引入了Stream类，使开发人员能够以声明式的方式对集合进行操作，如过滤、映射、排序等，提高了代码的简洁性和可读性。</p></blockquote><blockquote><p><strong>默认方法（Default Methods）</strong>：默认方法允许接口中定义具有默认实现的方法。这使得在接口中添加新的方法时，不会破坏已有的实现类，提高了接口的可扩展性。</p></blockquote><blockquote><p><strong>方法引用（Method References）</strong>：方法引用允许开发人员通过方法的引用来创建Lambda表达式，进一步简化代码，提高代码的可读性。</p></blockquote><blockquote><p><strong>新的日期和时间API</strong>：Java 8引入了新的日期和时间API，包括LocalDate、LocalTime、LocalDateTime等类，使日期和时间处理变得更加简单和直观。</p></blockquote><blockquote><p><strong>Optional类</strong>：Optional类提供了一种处理可能为空的值的方式，避免了空指针异常，提高了程序的健壮性。</p></blockquote><blockquote><p><strong>并发改进</strong>：Java 8引入了新的并发框架和改进，如CompletableFuture类、新的并发工具类、新的并发数据结构等，使并发编程变得更加简单和高效。</p></blockquote><blockquote><p><strong>重复注解（Repeated Annotations）</strong>：重复注解允许相同的注解可以多次应用于同一元素，提高了注解的灵活性和可读性。</p></blockquote><blockquote><p><strong>新的JavaScript引擎（Nashorn）</strong>：Java 8引入了新的JavaScript引擎Nashorn，提供了更快速的JavaScript执行和更好的互操作性。</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<h1 id="JAVA8概述"><a href="#JAVA8概述" class="headerlink" title="JAVA8概述"></a>JAVA8概述</h1><hr><p>Java 8是Java编程语言的一个重大版本，于<strong>2014年3月</strong>发布。它引入了许多新功能和改进，为Java开发人员带来了更强大和更高效的编程工具。</p><h2 id="主要特性和概述："><a href="#主要特性和概述：" class="headerlink" title="主要特性和概述："></a>主要特性和概述：</h2><blockquote><p><strong>Lambda表达式</strong>：Lambda表达式是Java 8最引人注目的特性之一。它允许开发人员将函数作为参数传递给方法，简化了代码，提高了代码的可读性和可维护性。</p></blockquote><blockquote><p><strong>流式API（Stream API）</strong>：流式API提供了一种新的处理集合数据的方式。它引入了Stream类，使开发人员能够以声明式的方式对集合进行操作，如过滤、映射、排序等，提高了代码的简洁性和可读性。</p></blockquote><blockquote><p><strong>默认方法（Default Methods）</strong>：默认方法允许接口中定义具有默认实现的方法。这使得在接口中添加新的方法时，不会破坏已有的实现类，提高了接口的可扩展性。</p></blockquote><blockquote><p><strong>方法引用（Method References）</strong>：方法引用允许开发人员通过方法的引用来创建Lambda表达式，进一步简化代码，提高代码的可读性。</p></blockquote><blockquote><p><strong>新的日期和时间API</strong>：Java 8引入了新的日期和时间API，包括LocalDate、LocalTime、LocalDateTime等类，使日期和时间处理变得更加简单和直观。</p></blockquote><blockquote><p><strong>Optional类</strong>：Optional类提供了一种处理可能为空的值的方式，避免了空指针异常，提高了程序的健壮性。</p></blockquote><blockquote><p><strong>并发改进</strong>：Java 8引入了新的并发框架和改进，如CompletableFuture类、新的并发工具类、新的并发数据结构等，使并发编程变得更加简单和高效。</p></blockquote><blockquote><p><strong>重复注解（Repeated Annotations）</strong>：重复注解允许相同的注解可以多次应用于同一元素，提高了注解的灵活性和可读性。</p></blockquote><blockquote><p><strong>新的JavaScript引擎（Nashorn）</strong>：Java 8引入了新的JavaScript引擎Nashorn，提供了更快速的JavaScript执行和更好的互操作性。</p></blockquote>]]></content>
     
     
       
       
     <summary type="html">&lt;h1 id=&quot;JAVA8概述&quot;&gt;&lt;a href=&quot;#JAVA8概述&quot; class=&quot;headerlink&quot; title=&quot;JAVA8概述&quot;&gt;&lt;/a&gt;JAVA8概述&lt;/h1&gt;&lt;hr&gt;
-&lt;p&gt;&lt;code&gt;    Java 8是Java编程语言的一个重大版本，于**2014年3月**</summary>
+&lt;p&gt;Java 8是Java编程语言的一个重大版本，于&lt;strong&gt;2014年3月&lt;/stro</summary>
       
     
     
